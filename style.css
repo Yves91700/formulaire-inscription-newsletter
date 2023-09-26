@@ -1,0 +1,18 @@
+:root {
+  /*primaire*/
+  --tomato: hsl(4, 100%, 67%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(234, 29%, 20%);
+}
+
+.container {
+  border-radius: 20px;
+}
